@@ -5,4 +5,6 @@ Deben agregar las líneas del archivo  bashGitColor.txt al final del archivo ~/.
 Solamente lo he probando con ubuntu.
 
 
+Si quieren cambiar colores ver https://misc.flogisoft.com/bash/tip_colors_and_formatting
+
 
