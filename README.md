@@ -1,7 +1,8 @@
 # git-bash-color
 Le agrega color los path en la consola
 
-Este scritp debe agregarse al final del archivo ~/.bashrc
+Deben agregar las líneas del archivo  bashGitColor.txt al final del archivo ~/.bashrc. 
+Solamente lo he probando con ubuntu.
 
 
 
